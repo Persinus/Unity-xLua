@@ -1,0 +1,8 @@
+{
+  "name": "com.Persinus.xlua",
+  "version": "1.0.0",
+  "displayName": "XLua for Unity",
+  "description": "XLua Unity bridge, forked from Tencent/xLua",
+  "unity": "2020.3",
+  "dependencies": {}
+}
